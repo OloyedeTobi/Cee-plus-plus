@@ -1,0 +1,17 @@
+******************************************************
+                      fabzy stores
+                               unilag
+
+
+Customer                     Agba
+Phone Number          08135903845
+
+
+Your Order
+Product Name               Unit Price         Quantity Ordered
+shoes                    35000                  30
+                                   *****
+                          Total Price      1.05e+006
+                                   *****
+Thanks for your patronage
+******************************************************
